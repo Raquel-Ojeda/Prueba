@@ -1,0 +1,23 @@
+[
+    {
+        "id": 50,
+        "nombre": "papas fritas",
+        "precio": 50,
+        "img": "/",
+        "descripcion":"Las mejores papas del mundo"
+    },
+    {
+        "id": 51,
+        "nombre": "Chupetines",
+        "precio": 10,
+        "img": "/",
+        "descripcion":"........."
+    },
+    {
+        "id": 52,
+        "nombre": "Helado de mis lágrimas",
+        "precio": 0,
+        "img": "/",
+        "descripcion":"Copio y pego lo mismo del código porque lloro sangre por morir y faltar sin querer"
+    }
+]
